@@ -33,23 +33,9 @@ I am a disciplined developer and athlete driven by the intersection of robust ba
 
 ### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge)
-![EasyOCR](https://img.shields.io/badge/EasyOCR-FF6F61?style=for-the-badge)
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamNgazzou&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamNgazzou&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamNgazzou&theme=radical&border_radius=10" alt="GitHub Streak Stats" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
