@@ -2,12 +2,7 @@
 
 ### Full-Stack Engineer | UI/UX Designer | AI Enthusiast
 
-I am a disciplined developer and athlete driven by the intersection of robust backend architecture and seamless user experiences. With a background in competitive problem-solving and a scholarship-backed academic journey, I build scalable, AI-integrated web applications.
-
-- 🧑‍💻 **LeetCode Enthusiast** - Solved 180+ problems
-- 🏆 **Academic Excellence** - 100% College Scholarship recipient
-- ⚡ **Athlete** - Bringing discipline and consistency to every project
-- 🚀 **Open to collaborations** in AI, Full-stack, and Microservices
+I am a disciplined developer driven by the intersection of robust backend architecture and seamless user experiences. With a background in competitive problem-solving and a scholarship-backed academic journey, I build scalable, AI-integrated web applications.
 
 ---
 
@@ -41,7 +36,3 @@ I am a disciplined developer and athlete driven by the intersection of robust ba
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-bdira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohamed.bdira25@gmail.com)
-
----
-💡 *Open to collaborations in web development, AI, and microservices. Let's build something impactful!*
-```
